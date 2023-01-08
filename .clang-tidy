@@ -1,0 +1,2 @@
+Checks: '*,-llvm*,-google*,-abseil*,-altera*,-android*,-boost*,-darwin*,-fuchsia*,-hicpp*,-linuxkernel*,-mpi*,-objc*,-openmp*,-zircon*,-modernize-use-trailing-return-type'
+WarningsAsErrors: 'bugprone-use-after-move'
